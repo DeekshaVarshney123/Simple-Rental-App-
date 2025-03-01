@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="/public/styles.css">
+</head>
+<body>
+    <h1>Welcome to Simple Rental App</h1>
+    <a href="/register">Register</a> | <a href="/login">Login</a> | <a href="/listings">View Listings</a>
+</body>
+</html>
